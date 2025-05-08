@@ -74,7 +74,7 @@ This project is an advanced, modular, and secure Telegram bot designed for conte
 ### Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram_bot.git
+git clone https://github.com/WENOTFLY/telegram_bot.git
 cd telegram_bot
 ```
 
