@@ -1,1 +1,12 @@
-{}
+{
+    "groups": [
+        {
+            "id": -1001234567890,
+            "name": "AI News Channel"
+        },
+        {
+            "id": -1009876543210,
+            "name": "Tech Updates"
+        }
+    ]
+}
